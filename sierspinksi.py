@@ -1,5 +1,5 @@
 #imports and name program. This is a gr8 program that will draw triangles inside triangles inside triangles inside triangles...
-import turtle
+import turtle;
 import random
 import re
 import sys #to take command line arguments
