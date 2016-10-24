@@ -9,7 +9,7 @@ PROGNAME = 'Sierpinski'
 #make turtle, draw in white and control speed
 pen = turtle.Turtle()
 pen.speed(4)
-pen.pencolor("white")
+pen.pencolor("fuglehorn")
 
 #hide the turtle
 turtle.hideturtle()
