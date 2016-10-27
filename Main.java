@@ -9,3 +9,12 @@ class Main{
     System.out.println(num);
   }
 }// end Main class
+<!DOCType HTML>
+<html>
+<head>
+<title>Testing JavaScript</title>
+</head>
+<body>
+Content goes here...
+</body>
+</html>
