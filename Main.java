@@ -4,6 +4,7 @@ class Main{
     //do something
     System.out.println("Hello World");
     
+    // This is a variable!
     Int num = 5;
     System.out.println(num);
   }
