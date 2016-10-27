@@ -1,5 +1,9 @@
 # First-Pull-Request
-To help people make easy pull requests
-Lorem ipsuum dolor sit amet, consectetur adipiscing elit. Ut semper eget massa quis vestibulum. Suspendisse eleifend vitae ante ut fringilla. Cras blandit augue quis risus congue, vitae semper sem tristique. Praesent non nibh nibh. Proin quis lacinia nibh, ac semper tellus. Integer ut ex neque. Vestibulum laoreet ultrices sem in iaculis. Mauris varius eros eget rhoncus cursus. Ut eget efficitur metus, nec vestibulum sapien. Nulla et eleifend quam, quis interdum turpis. Morbi tempus, ex non consequat viverra, felis mi pellentesque mauris, eget feugiat orci neque et felis. Praesent ac dolor quis velit fermentum pretium. Phasellus vestibulum nec mi id cursus. Morbi facilisis efficitur efficitur. In sit amet convallis neque.
+Repo created by Carol for RHHS Computer Science club to learn how to use git
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi tempor, erat vel tincidunt lacinia, nisi purus sagittis augue, ac molestie orci quam at lectus. Nunc eleifend ac diam a iaculis. Sed eget interdum massa. Nulla fringilla tempus lorem eu ultricies. Cras lobortis ullamcorper dapibus. In in ligula rhoncus, tincidunt turpis ut, imperdiet dui. Pellentesque tincidunt massa at orci ullamcorper scelerisque. Maecenas quis dignissim ligula.
+# Instructions
+
+1. Head to the [issues](https://github.com/kipply/First-Pull-Request/issues) tab and find one you can fix
+2. Comment on it so people know you're working on it
+..* If you don't comment, someone else might start working on it and create confusion
+3. Go fix the issue and reference it in your pull request (Must be in description to show up on the issue's page)
