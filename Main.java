@@ -7,5 +7,6 @@ class Main{
     // This is a variable!
     Int num = 5;
     System.out.println(num);
+    // This is a meaningless comment
   }
 }// end Main class
