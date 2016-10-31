@@ -5,7 +5,7 @@ class Main{
     System.out.println("Hello World");
     
     // This is a variable!
-    Int num = 5;
+    Int num = 7;
     System.out.println(num);
   }
 }// end Main class
